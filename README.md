@@ -56,7 +56,7 @@
 <a href="https://github.com/SherwinVarghese/Machine-Learning-TechknowSchool"><img width="200" src="https://raw.githubusercontent.com/SherwinVarghese/Machine-Learning-TechknowSchool/master/Images/machine_learning.jpg" alt="Machine Learning TechknowSchool" border="0"></a>
 </td>
 <td>
-<a href="https://github.com/SherwinVarghese/CodeCamp"><img width="200"  src="https://raw.githubusercontent.com/SherwinVarghese/CodeCamp/main/public/cwfull.png" alt="Code Camp Crossword App"></a>
+<a href="https://github.com/SherwinVarghese/CodeCamp"><img width="200"  src="https://raw.githubusercontent.com/SherwinVarghese/CodeCamp/main/public/cw-img.png" alt="Code Camp Crossword App"></a>
 </td>
 </tr>
 <tr>
