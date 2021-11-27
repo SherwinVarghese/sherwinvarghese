@@ -21,24 +21,24 @@
 </div>
 
 ### Languages and Tools:
-<img align="left" alt="IntelliJ Idea" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/intellij-idea.png" />
-<img align="left" alt="Eclipse" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/eclipse.png" />
-<img align="left" alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/html5.png" />
-<img align="left" alt="CSS3" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/css3.png" />
-<img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/javascript.png" />
-<img align="left" alt="Angular" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/angular.png" />
-<img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/nodejs.png" />
-<img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/sql.png" />
-<img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/mysql.png" />
-<img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/mongodb.png" />
-<img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/git.png" />
-<img align="left" alt="GitHub" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/github.png" />
-<img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
-<img align="left" alt="GCP" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
-<img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
+<img align="left" alt="IntelliJ Idea" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/intellij-idea.png" />
+<img align="left" alt="Eclipse" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/eclipse.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/html5.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/css3.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/javascript.png" />
+<img align="left" alt="Angular" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/angular.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/nodejs.png" />
+<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/sql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/mysql.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/mongodb.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/github.png" />
+<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
+<img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
+<img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
 <br />
-<br />
+<br />\
 
 ### Research Profile:
 <p>
