@@ -50,7 +50,7 @@
 
 ## Recent Projects:
 <p>
-<table>
+<table border="0">
 <tr>
 <td>
 <a href="https://github.com/SherwinVarghese/Machine-Learning-TechknowSchool"><img width="200" src="https://raw.githubusercontent.com/SherwinVarghese/Machine-Learning-TechknowSchool/master/Images/machine_learning.jpg" alt="Machine Learning TechknowSchool" border="0"></a>
@@ -74,15 +74,9 @@ Code Camp Crossword App
 
 <div><h3>My profile overview: </h3></div>
 
-<table>
-<tr>
-<td>
-![Sherwin's Profile Overview](https://github-readme-stats.vercel.app/api?username=SherwinVarghese&theme=algolia&show_icons=true)
-</td>
-<td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVarghese&theme=algolia&layout=compact)](https://github.com/SherwinVarghese/)
-</td>
-</tr>
+| | |
+| :--: | :--: |
+| ![Sherwin's Profile Overview](https://github-readme-stats.vercel.app/api?username=SherwinVarghese&theme=algolia&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVarghese&theme=algolia&layout=compact)](https://github.com/SherwinVarghese/) |
 
 <br />
 <br />
