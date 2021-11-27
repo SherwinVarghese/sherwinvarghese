@@ -40,13 +40,13 @@
 <br />
 <br />
 
-## Research Profile:
+### Research Profile:
 <p>
 <a href="https://scholar.google.com/citations?user=wNfeINQAAAAJ&hl=en"><img width="100" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/google-scholar.png" alt="Google Scholar" border="0"></a> 
 <a href="https://www.researchgate.net/profile/Sherwin-Varghese"><img width="100" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/research-gate.png" alt="Research Gate" border="0"></a>
 </p>
 
-## Recent Projects:
+### Recent Projects:
 <p>
 <table border="0">
 <tr>
