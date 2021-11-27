@@ -40,7 +40,7 @@
 <img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
 </p>
 <br />
-<br />
+<br />     
 
 ### Research Profile:
 <p>
