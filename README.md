@@ -11,7 +11,7 @@
 - 👨‍🎓 Aspiring Reseacher
 - 💻 Java and Angular Fullstack web developer
 - 🤖 Passionate about Machine Learning and Artificial Intelligence
-- 🚀 Familiar Languages
+- 🚀 Familiar Programming Languages
     - Java 
     - JavaScript
     - Python 
@@ -23,9 +23,9 @@
 ### Languages and Tools:
 <img align="left" alt="IntelliJ Idea" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/intellij-idea.png" />
 <img align="left" alt="Eclipse" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/eclipse.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/html5.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/css/css3.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/css3.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/javascript.png" />
 <img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/angular.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/nodejs.png" />
@@ -43,16 +43,34 @@
 ## Research Profile
 
 <p>
-[<img align="left" alt="Google Scholar" width="200" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/google-scholar.png" />](https://in.linkedin.com/in/sherwin-varghese)
-[<img align="left" alt="Research Gate" width="200" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/research-gate.png" />](https://in.linkedin.com/in/sherwin-varghese)
+	<a href="https://scholar.google.com/citations?user=wNfeINQAAAAJ&hl=en"><img width="100" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/google-scholar.png" alt="Google Scholar" border="0"></a> 
+
+	<a href="https://www.researchgate.net/profile/Sherwin-Varghese"><img width="100" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/research-gate.png" alt="Research Gate" border="0"></a>
 </p>
 
 
 ## Recent Projects
 
 <p>
-<a href="https://github.com/SherwinVarghese/Machine-Learning-TechknowSchool"><img width="200" src="https://raw.githubusercontent.com/SherwinVarghese/Machine-Learning-TechknowSchool/master/Images/machine_learning.jpg" alt="Machine Learning TechknowSchool" border="0"></a> 
-<a href="https://github.com/SherwinVarghese/CodeCamp"><img width="200"  src="https://raw.githubusercontent.com/SherwinVarghese/CodeCamp/main/public/cwfull.png" alt="MockUp"></a> 
+	<table border="0">
+		<tr>
+			<td>
+				<img width="200" src="https://raw.githubusercontent.com/SherwinVarghese/Machine-Learning-TechknowSchool/master/Images/machine_learning.jpg" alt="Machine Learning TechknowSchool" border="0">
+			</td>
+			<td>
+				<img width="200"  src="https://raw.githubusercontent.com/SherwinVarghese/CodeCamp/main/public/cwfull.png" alt="MockUp">
+			</td>
+		</tr>
+			
+		<tr>
+			<td>
+				<a href="https://github.com/SherwinVarghese/Machine-Learning-TechknowSchool">Machine Learning TechknowSchool</a> 
+			</td>
+			<td>
+			<a href="https://github.com/SherwinVarghese/CodeCamp">Code Camp Crossword App</a> 
+			</td>
+		</tr>
+	</table>
 </p>
 
 
