@@ -21,8 +21,7 @@
 </div>
 
 ### Languages and Tools:
-<div>
-<img align="left" alt="IntelliJ Idea" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/intellij-idea.png" />
+<code><img align="left" alt="IntelliJ Idea" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/intellij-idea.png" />
 <img align="left" alt="Eclipse" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/eclipse.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/html5.png" />
@@ -37,8 +36,7 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/github.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
 <img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
-<img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
-</div>
+<img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" /></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
