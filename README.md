@@ -39,7 +39,7 @@
 <img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
 <img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
 </div>
-<br /><br />  
+<br /><br />\s\s
 
 ### Research Profile:
 <p>
