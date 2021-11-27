@@ -36,7 +36,7 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/github.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
 <img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
-<img align="right" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
+<img alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
 
 ### Research Profile:
 <p>
