@@ -35,11 +35,11 @@
 <img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/git.png" />
 <img align="left" alt="GitHub" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/github.png" />
 <img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
-<br />
-<br />
 <img align="left" alt="GCP" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
 <img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
 <br />
+<br />
+
 
 ## Research Profile
 
@@ -87,6 +87,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SherwinVarghese)
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://in.linkedin.com/in/sherwin-varghese)
+[<img align="left" alt="LinkedIn" width="200" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://in.linkedin.com/in/sherwin-varghese)
 
 </div>
