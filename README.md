@@ -35,12 +35,11 @@
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/mongodb.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/github.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
+<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" /><br />
 <img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
 <img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
-</div>
+</div><br />
 
-####
 ### Research Profile:
 <p>
 <a href="https://scholar.google.com/citations?user=wNfeINQAAAAJ&hl=en"><img width="50" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/google-scholar.png" alt="Google Scholar" border="0"></a> 
