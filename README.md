@@ -21,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-<div>
+<p>
 <img align="left" alt="IntelliJ Idea" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/intellij-idea.png" />
 <img align="left" alt="Eclipse" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/eclipse.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/visual-studio-code.png" />
@@ -38,9 +38,9 @@
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/terminal.png" />
 <img align="left" alt="GCP" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/gcp.png" />
 <img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/SherwinVarghese/sherwinvarghese/images/logos/azure.png" />
-</div>
+</p>
 <br />
-<br />&nbsp; 
+<br />
 
 ### Research Profile:
 <p>
