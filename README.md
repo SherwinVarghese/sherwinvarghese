@@ -73,9 +73,8 @@
 
 
 <div><h3>My profile overview: </h3></div>
-
-![Sherwin's Profile Overview](https://github-readme-stats.vercel.app/api?username=SherwinVarghese&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVarghese&theme=algolia&layout=compact)](https://github.com/SherwinVarghese/)
+| :--: | :--: |
+|![Sherwin's Profile Overview](https://github-readme-stats.vercel.app/api?username=SherwinVarghese&theme=algolia&show_icons=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVarghese&theme=algolia&layout=compact)](https://github.com/SherwinVarghese/) |
 <br />
 <br />
 
