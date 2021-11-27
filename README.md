@@ -50,21 +50,21 @@
 
 ## Recent Projects:
 <p>
-<table border="0">
+<table>
 <tr>
 <td>
-<img width="200" src="https://raw.githubusercontent.com/SherwinVarghese/Machine-Learning-TechknowSchool/master/Images/machine_learning.jpg" alt="Machine Learning TechknowSchool" border="0">
+<a href="https://github.com/SherwinVarghese/Machine-Learning-TechknowSchool"><img width="200" src="https://raw.githubusercontent.com/SherwinVarghese/Machine-Learning-TechknowSchool/master/Images/machine_learning.jpg" alt="Machine Learning TechknowSchool" border="0"></a>
 </td>
 <td>
-<img width="200"  src="https://raw.githubusercontent.com/SherwinVarghese/CodeCamp/main/public/cwfull.png" alt="MockUp">
+<a href="https://github.com/SherwinVarghese/CodeCamp"><img width="200"  src="https://raw.githubusercontent.com/SherwinVarghese/CodeCamp/main/public/cwfull.png" alt="Code Camp Crossword App"></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/SherwinVarghese/Machine-Learning-TechknowSchool">Machine Learning TechknowSchool</a> 
+Machine Learning TechknowSchool 
 </td>
 <td>
-<a href="https://github.com/SherwinVarghese/CodeCamp">Code Camp Crossword App</a> 
+Code Camp Crossword App 
 </td>
 </tr>
 </table>
@@ -73,8 +73,17 @@
 
 
 <div><h3>My profile overview: </h3></div>
-| :--: | :--: |
-|![Sherwin's Profile Overview](https://github-readme-stats.vercel.app/api?username=SherwinVarghese&theme=algolia&show_icons=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVarghese&theme=algolia&layout=compact)](https://github.com/SherwinVarghese/) |
+
+<table>
+<tr>
+<td>
+![Sherwin's Profile Overview](https://github-readme-stats.vercel.app/api?username=SherwinVarghese&theme=algolia&show_icons=true)
+</td>
+<td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVarghese&theme=algolia&layout=compact)](https://github.com/SherwinVarghese/)
+</td>
+</tr>
+
 <br />
 <br />
 
