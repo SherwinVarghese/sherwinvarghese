@@ -3,7 +3,7 @@
 
 <div>
  <p>
-   I am <a href="https://github.com/SherwinVarghese"><b>Sherwin Varghese</b></a>. Full Stack Web application developer 💼 at <a href="https://www.sap.com/">SAP SE</a>
+   I am <a href="https://sherwinvarghese.github.io"><b>Sherwin Varghese</b></a>. Full Stack Web application developer 💼 at <a href="https://www.sap.com/">SAP SE</a>
    Computer science graduate holding Masters in Software Systems with Data Analytics specialization. Full stack web developer with experience in Cloud application development. My research interests include Machine Learning, robotics and IoT.
 
 
